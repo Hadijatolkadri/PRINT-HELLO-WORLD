@@ -30,7 +30,7 @@
 ![Screenshot (18)](https://user-images.githubusercontent.com/92988781/138554306-654f2125-4584-41d8-be35-1607ddf38428.png)
 
 
-    - kedua, anda bisa klik kanan, lalu klik "run python file in Terminal
+    - kedua, anda bisa klik kanan, lalu klik "run python file in Terminal atau (SHIFT+ENTER)
     
 ![Annotation 2021-10-23 043236](https://user-images.githubusercontent.com/92988781/138554379-f8d1b14e-c96b-43c5-9406-605ffa9f6708.png)
 
@@ -43,7 +43,25 @@
 
 - Cara mengeksekusi dengan vscode
 
-    - 
+    - Pertama, buat program. contohnyanya dibawah ini
+
+![Screenshot (18)](https://user-images.githubusercontent.com/92988781/138554306-654f2125-4584-41d8-be35-1607ddf38428.png)
+
+
+    - kedua, untuk merunningnya klik kanan kemudian pilih ( run code ) atau cara simpelnya ( CTRL+ALT+N )
+    
+![Annotation 2021-10-23 050132](https://user-images.githubusercontent.com/92988781/138555347-46a4e8c0-fcb1-4508-ae3a-fd555b389122.png)
+
+
+    - ketiga, output
+    
+![Annotation 2021-10-23 050212](https://user-images.githubusercontent.com/92988781/138555377-0ca6da66-efaa-4aea-92de-eb4c81926831.png)
+
+
+SELESAI !!!
+
+
+    
 
 
 
