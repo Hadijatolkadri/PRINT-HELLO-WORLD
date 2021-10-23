@@ -25,4 +25,25 @@
 
 - Cara mengeksekusi menggunakan terminal
 
+    - pertama, buat program. contoh dibawah ini
+
+![Screenshot (18)](https://user-images.githubusercontent.com/92988781/138554306-654f2125-4584-41d8-be35-1607ddf38428.png)
+
+
+    - kedua, anda bisa klik kanan, lalu klik "run python file in Terminal
+    
+![Annotation 2021-10-23 043236](https://user-images.githubusercontent.com/92988781/138554379-f8d1b14e-c96b-43c5-9406-605ffa9f6708.png)
+
+
+    - ketiga, output
+
+![Annotation 2021-10-23 043829](https://user-images.githubusercontent.com/92988781/138554449-4b46d634-b2c0-4d2b-85ac-8f858ec03f14.png)
+
+
+
+- Cara mengeksekusi dengan vscode
+
+    - 
+
+
 
