@@ -1,0 +1,43 @@
+#Python-dan-VSCode
+
+1.Kenapa sih harus ada angka di belakang versi aplikasi / IDE seperti gambar di python?
+
+angka yang ada di belakang python itu adalah angka versi supaya memudahkan user untuk mengetahui yang mana versi terbaru dan versi lampau,dimana angka "3" revisinya, terus "10" dalam partikel kecil dimana dia melakukan revisi.
+
+2.FUNGSI-FUNGSI TOOLS VSCODE
+
+-Function /fungsi
+
+-Tools sebelah kiri (actifity bar) pada vscode
+
+a. explorer, untuk menampilkan file pada project
+
+b. pencarian (search), untuk mencari kata yang ingin anda cari di vscode
+
+c. sourche control, untuk dipakai jika sudah terintegrasi dengan git
+
+d. run debugging, untuk melakukan proses perbaikan coding dengan cara memantau variabel
+
+e. extension, merupakan pulg-in yang berfungsi untuk menjalankan sebuah project.
+
+f. testing, untuk mengetest sebuah project
+
+g, account, untuk melakukan pendaftaraan akun, dan juga bisa masuk ke akun yang sudah di buat
+
+h. setting, untuk mengatur sesuai keinginan user
+
+3.MENJELASKAN EKSTENSION ITU APA DAN CARA PENERAPANNYA
+
+Saya akan menjelaskan 1 ekstensi contohnya python
+
+- fungsi ekstensi termuat dalam beberapa poin berikut: Menjelaskan karakteristik dari program dan aplikasi. Rincian pembeda untuk file yang memuat visual, audio, teks atau gabungannya
+
+-Untuk penerapannya mudah
+
+Install versi python yang mendukung operasi sistem anda
+
+install ekstensi python pada vscode (actifity bar - ekstension - tulis "python" pada menu pencarian - install - tunggu hingga proses installing selesai)
+
+Buat file python dan mulai ngoding
+
+Terus finish phytin sudah bisa di akses .
